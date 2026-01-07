@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Minimal Desk Lamp",
+    "category": "Aesthetic",
+    "image": "assets/images/lamp.jpg",
+    "description": "Soft glow lamp for modern desks.",
+    "link": "https://example.com"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "category": "Tech",
+    "image": "assets/images/earbuds.jpg",
+    "description": "Clean sound, no distractions.",
+    "link": "https://example.com"
+  }
+]
